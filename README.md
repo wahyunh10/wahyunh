@@ -1,4 +1,7 @@
 # Wahyu Nurul Hidayat
+- 👋 Hi, I’m @wahyunh10
+- 🌱 I’m currently learning Business Intelligent, Data Analyst, Data Science
+- 📫 How to reach me wahyunurul97@gmail.com
 
 Interested in:
 - Data Analyst
@@ -15,3 +18,8 @@ Interested in:
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyunh10&" alt="wahyunh10" />
+
+<!---
+wahyunh10/wahyunh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
