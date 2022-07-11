@@ -1,5 +1,8 @@
-# Wahyu Nurul Hidayat
-- 👋 Hi, I’m @wahyunh10
+# Hi, I'm Wahyu Nurul Hidayat <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!" /></a>
+</p>
+
 - 🌱 I’m currently learning Business Intelligent, Data Analyst, Data Science
 - 📫 How to reach me wahyunurul97@gmail.com
 
